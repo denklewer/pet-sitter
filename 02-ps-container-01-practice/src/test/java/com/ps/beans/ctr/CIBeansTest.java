@@ -44,9 +44,7 @@ public class CIBeansTest {
                 assertNotNull(bean2.getSimpleBean2());
             }
 
-
         }
-
     }
 
 
